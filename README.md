@@ -1,6 +1,6 @@
 # fibjs-hyperscan
 Offer the highest speed of text scanning resolution with javascript.
-It has a great advantage of fileds like text diming, keywords matching and so on.
+It has a great advantage in fileds like text diming, keywords matching and so many on.
 
 # prerequisite
 You need to install libhs.so or libhs.dylib in your system or put them in your current work directory before you use fibjs-hyperscan.
