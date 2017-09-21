@@ -1,5 +1,10 @@
-# fibjs-hyperscan
-Offer the highest speed of text scanning resolution with javascript.
+# hyperscan-fibjs
+[hyperscan](https://github.com/01org/hyperscan) is a high-performance multiple regex matching library.
+
+It uses hybrid automata techniques to allow simultaneous matching of large numbers (up to tens of thousands) of regular expressions and for the matching of regular expressions across block data.
+
+This project integrate hyperscan in [fibjs](https://github.com/fibjs/fibjs), to enable developers to use hyperscan in their javascript projects.
+
 It has a great advantage in fileds like text diming, keywords matching and so many on.
 
 # prerequisite
@@ -12,8 +17,8 @@ git clone https://github.com/asionius/fibjs-hyperscan.git
 # install
 ```
 cd fibjs-hyperscan
-chmod +x fibjs-hyperscan-linux-x64-v0.13
-cp ./fibjs-hyperscan-linux-x64-v0.13 /usr/local/bin/fibjs
+chmod +x fibjs-hyperscan-linux-x64-v0.14
+cp ./fibjs-hyperscan-linux-x64-v0.14 /usr/local/bin/fibjs
 ```
 # test
 ```
