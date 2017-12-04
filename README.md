@@ -17,8 +17,8 @@ git clone https://github.com/asionius/fibjs-hyperscan.git
 # install
 ```
 cd fibjs-hyperscan
-chmod +x fibjs-hyperscan-linux-x64-v0.19
-cp ./fibjs-hyperscan-linux-x64-v0.19 /usr/local/bin/fibjs
+chmod +x fibjs-hyperscan-linux-x64-v0.20
+cp ./fibjs-hyperscan-linux-x64-v0.20 /usr/local/bin/fibjs
 ```
 # test
 ```
